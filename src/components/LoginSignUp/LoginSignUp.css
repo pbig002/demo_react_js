@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+background: #bd5f5f;
+flex-direction: column;
+margin: auto;
+margin-top: 200px;
+}
+
+.header{   
+    width: 100%;}
